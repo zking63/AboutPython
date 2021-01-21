@@ -100,8 +100,8 @@
     display:inline-block;
     color: white;
     width: 550px;
-    margin-left: 20px
-    margin-right: 25px
+    margin-left: 20px;
+    margin-right: 25px;
 }
 
 .main h3 {
@@ -166,7 +166,7 @@
 
 #footer{
     text-align: center;
-    background: linear-gradient (rgb(187, 187, 243), blue;);
+    background: blue;
     padding-top: 10px;
     color: #88b4db;
 }
